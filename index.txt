@@ -1,3 +1,8 @@
 name: amar;
 age: 21;
 college : RVITM;
+
+name:ullas;
+age: 21;
+college: KSIT;
+
